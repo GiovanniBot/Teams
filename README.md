@@ -1,4 +1,4 @@
-# Teams
+# Discussion Groups
 
 A simple application to create and manage groups and teams.
 
@@ -43,8 +43,9 @@ A simple application to create and manage groups and teams.
 
 ## Screenshots and GIFs
 
-- ![Group Creation](path/to/image1.png)
-- ![Manage Teams](path/to/image2.gif)
+<p align="center">
+  <img width="270" height="auto" src="https://github.com/user-attachments/assets/74cd7010-4159-41d1-abdf-33fac93e20c0" alt="Gif demonstrativo.">
+</p> 
 
 ## License
 
