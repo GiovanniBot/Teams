@@ -1,4 +1,7 @@
 # Discussion Groups
+<p align="center">
+  <img width="165" height="auto" src="https://github.com/user-attachments/assets/89170b5a-57d8-44a1-bca0-b7880dbbd37a" alt="Gif demonstrativo.">
+</p> 
 
 A simple application to create and manage groups and teams.
 
